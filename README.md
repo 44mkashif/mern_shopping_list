@@ -1,1 +1,2 @@
-# mern_shopping_list
+# Shopping List
+Shopping list built with the MERN Stack
